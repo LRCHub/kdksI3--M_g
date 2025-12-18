@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "ワインレッドの心",
+  "base_artist": "Anzenchitai",
+  "createdAt": "2025-12-18T07:54:17.617708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワインレッドの心",
+      "artist": "Anzenchitai",
+      "has_synced": false,
+      "path": "select/01_ワインレッドの心_Anzenchitai.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ワインレッドの心",
+      "artist": "玉置 浩二",
+      "has_synced": true,
+      "path": "select/02_ワインレッドの心_玉置_浩二.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ワインレッドの心",
+      "artist": "玉置浩二",
+      "has_synced": true,
+      "path": "select/03_ワインレッドの心_玉置浩二.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ワインレッドの心",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/04_ワインレッドの心_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ワインレッドの心",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/05_ワインレッドの心_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ワインレッドの心",
+      "artist": "Anzen Chitai",
+      "has_synced": true,
+      "path": "select/06_ワインレッドの心_Anzen_Chitai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ワインレッドの心(2010ヴァージョン)",
+      "artist": "Anzen Chitai",
+      "has_synced": true,
+      "path": "select/07_ワインレッドの心(2010ヴァージョン)_Anzen_Chitai.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ワインレッドの心",
+      "artist": "Anzenchitai",
+      "has_synced": true,
+      "path": "select/08_ワインレッドの心_Anzenchitai.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ワインレッドの心 - Wine Red No Kokoro",
+      "artist": "Anzenchitai",
+      "has_synced": true,
+      "path": "select/09_ワインレッドの心_-_Wine_Red_No_Kokoro_Anzenchitai.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ワインレッドの心",
+      "artist": "杏里",
+      "has_synced": false,
+      "path": "select/10_ワインレッドの心_杏里.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ワインレッドの心",
+      "artist": "Anzenchitai",
+      "has_synced": false,
+      "path": "select/11_ワインレッドの心_Anzenchitai.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ワインレッドの心",
+      "artist": "大橋純子",
+      "has_synced": true,
+      "path": "select/12_ワインレッドの心_大橋純子.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ワインレッドの心",
+      "artist": "Koda Kumi",
+      "has_synced": false,
+      "path": "select/13_ワインレッドの心_Koda_Kumi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ワインレッドの心 (40th ANNIVERSARY CONCERT \"Just Keep Going!\" Tokyo Garden Theater)",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/14_ワインレッドの心_(40th_ANNIVERSARY_CONCERT__Just_Keep_Going!__Tokyo_Garden_Theater)_安全地帯.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ワインレッドの心",
+      "artist": "BENI",
+      "has_synced": true,
+      "path": "select/15_ワインレッドの心_BENI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_01_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_02_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_03_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_04_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_05_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_06_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_07_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_08_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_09_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_10_ワインレッドの心_安全地帯.txt"
+    }
+  ]
+}
